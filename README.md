@@ -9,7 +9,7 @@ On the website you can only zoom in and out based on your preferences.
 
 ## How to run it
 to run it first you need to run on your executor (it needs to have request/http_request function) this script:
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/the_zylang/online_radar/main/radar.lua",true))()```
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/the_zylang/online_radar/head/main/radar.lua",true))()```
 then for running the server there are many ways but the easiest for me is to install [Visual Studio Code](https://code.visualstudio.com/download),
 install [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python), 
 on powershell do those commands: ```pip install flask flask_cors```, clone the repository doing on the powershell ```git clone https://github.com/the_zylang/online_radar.git```,
